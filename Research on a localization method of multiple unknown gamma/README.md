@@ -1,0 +1,9 @@
+Paper Title: Research on a localization method of multiple unknown gamma radioactive sources
+
+Abstract: Accidental loss of radioactive sources will pose a great threat to social security and the national economy, and may cause mass casualties and serious social panic. This paper explores a localization method of multiple unknown radioactive sources based on the convolutional neural network (CNN) algorithm to search for lost or unknown radioactive sources. The energy deposition distribution of multiple gamma (γ) radioactive sources in an area is obtained by Geant4 simulation. Additionally, the energy deposition values in the area are randomly collected by using the self-avoiding walk (SAW) algorithm, and three datasets of training, validation and test are constructed. The collected data can be trained and analyzed by a convolutional neural network to determine the locations of radioactive sources. Further, in order to verify the performance of the algorithm, group experiments are carried out, including the existence of obstacles in the area, the length of obstacles, the number of radioactive sources, etc. The experimental results show that the respective locations of two radioactive sources can be predicted with 89% accuracy by only collecting 10 energy deposition values in the area. In the case of complex obstacles, the accuracy can reach 68%. Besides, the respective locations of three radioactive sources can be predicted with at least 86% accuracy in a restricted area. The experimental results show the feasibility of the proposed method for the localization of multiple unknown radioactive sources.
+
+Authors: Xulin Hua, Jianwen Huoa*, Junling Wangb, Li Hua, Yufeng Xiao
+
+Link required: https://www.sciencedirect.com/science/article/abs/pii/S0306454922003371
+
+If our work is helpful to your research, please cite our paper in your paper.
